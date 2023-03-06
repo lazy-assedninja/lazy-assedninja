@@ -1,9 +1,11 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=PT+Mono&size=32&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=I'm+Henry+Huang.;I'm+an+Android+developer." alt="Typing SVG" /></a><br/>
   <img style="width: 20%;" src="https://profile-counter.glitch.me/henryhuang1219/count.svg" alt="" />
-  <br/>
-  <br/>
 </div>
+
+<h3 align="left">
+  I was born in 1997.&nbsp&nbspInterested in mobile, web... related to frontend programming.<br/>
+</h3>
 
 - 🌱 I’m currently learning ***Kotlin Multiplatform***
 - 📝 I regularly write articles on [lazy-assedninja.com](https://lazy-assedninja.com)
