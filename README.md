@@ -4,7 +4,7 @@
 </div>
 
 <h3 align="left">
-  I was born in 1997.&nbsp&nbspInterested in mobile, web... related to frontend programming.<br/>
+  I was born in Taiwan in 1997.&nbsp&nbspInterested in mobile, web... related to frontend programming.<br/>
 </h3>
 
 - 🌱 I’m currently learning ***Kotlin Multiplatform***
