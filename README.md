@@ -32,10 +32,10 @@
 
 ## Support
 <div>
-  <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/henryhuang">
+  <a href="https://www.buymeacoffee.com/henryhuang">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" />
   </a>
-  <a href="https://ko-fi.com/https://ko-fi.com/henryhuang">
+  <a href="https://ko-fi.com/henryhuang">
     <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-if" />
   </a>
 </div>
