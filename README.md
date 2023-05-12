@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=PT+Mono&size=32&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=I'm+Henry+Huang.;I'm+an+Android+developer." alt="Typing SVG" /></a><br/>
-  <img style="width: 20%;" src="https://profile-counter.glitch.me/henryhuang1219/count.svg" alt="" />
+  <img style="width: 20%;" src="https://profile-counter.glitch.me/lazy-assedninja/count.svg" alt="" />
 </div>
 
 <h3 align="left">
@@ -26,8 +26,8 @@
 
 ## Github Stats  
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=henryhuang1219&hide=issues&show_icons=true&count_private=true&line_height=24&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=fff&bg_color=000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryhuang1219&show_icons=true&hide_border=true&layout=compact&title_color=39FF14&icon_color=39FF14&text_color=fff&bg_color=000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lazy-assedninja&hide=issues&show_icons=true&count_private=true&line_height=24&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=fff&bg_color=000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazy-assedninja&show_icons=true&hide_border=true&layout=compact&title_color=39FF14&icon_color=39FF14&text_color=fff&bg_color=000" />
 </div>
 
 ## Support
